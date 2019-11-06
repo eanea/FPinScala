@@ -1,2 +1,2 @@
-# FPinScala
-Functional Programming in Scala PAUL CHIUSANO RÚNAR BJARNASON
+# Functional Programming in Scala. Paul Chiusano and Runar Bjarnason
+Exercises from book
