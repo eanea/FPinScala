@@ -1,2 +1,2 @@
-# Functional Programming in Scala. Paul Chiusano and Runar Bjarnason
+# Functional Programming in Scala
 Exercises from book
